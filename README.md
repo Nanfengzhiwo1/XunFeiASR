@@ -1,6 +1,6 @@
 # XunFeiASR
 
-**First of all, you need the plugin, if you don't have the plugin please download it here https://github.com/Nanfengzhiwo1/XunFeiASRPlugin_UE5.1.1, and you need to pay attention to the configuration of the plugin**
+**First of all, you need the plugin, if you don't have the plugin please download it here [XunFeiASRPlugin_UE5.1.1](https://github.com/Nanfengzhiwo1/XunFeiASRPlugin_UE5.1.1), and you need to pay attention to the configuration of the plugin**
 
 Please change appid to your appid
 
